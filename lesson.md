@@ -82,7 +82,7 @@ To persist data, we need a Database. But not all data is created equal — you w
 ## 🏃 Part 2: Building the Blueprint — ERD (50 min)
 
 ### 🎯 Learning Objectives
-Apply the concepts of Primary Keys and Foreign Keys to create a logical Entity-Relationship Diagram (ERD) using DBML.
+Apply the concepts of Primary Keys and Foreign Keys to create a logical Entity-Relationship Diagram (ERD) using DBML (Database Markup Language).
 
 ### Concept Overview
 
