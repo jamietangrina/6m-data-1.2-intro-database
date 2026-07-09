@@ -88,7 +88,9 @@ Apply the concepts of Primary Keys and Foreign Keys to create a logical Entity-R
 
 Before we write SQL queries, we need a map. An Architect draws a blueprint before the construction crew lays bricks. An **ERD (Entity Relationship Diagram)** is our blueprint.
 
-The glue that holds this blueprint together is the **ID**.
+The glue that holds this blueprint together is the **ID**. 
+
+INT IDENTITY in SQL is a property applied to an integer column to automatically generate sequential, auto-incrementing numbers whenever a new row is inserted into a table.
 
 **The Keys:**
 
