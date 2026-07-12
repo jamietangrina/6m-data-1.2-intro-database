@@ -256,8 +256,7 @@ Evaluate a raw, un-normalized dataset and decompose it into a 3rd Normal Form (3
 One reassurance before we dive in: **you don't need to memorise the 1NF/2NF/3NF numbers** — you need the instinct behind them: *each fact should live in exactly one place*. The rules below are just three flavours of that one idea.
 
 ---
-Normal Form
-#### Rule 1 (1NF): One Item Per Space — "No Grocery Bags in Cells"
+#### Rule 1 (1NF-Normal Form): One Item Per Space — "No Grocery Bags in Cells"
 
 **The Problem — Before 1NF:**
 
