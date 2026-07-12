@@ -3,6 +3,7 @@
 Topic: Complex Relationships & Data Integrity
 
 Estimated Time: 45–60 Minutes
+https://dbdiagram.io/d/6a52feb34ac62e474c852b88 
 
 ## 🎯 What You'll Practice
 
